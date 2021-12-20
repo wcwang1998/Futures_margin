@@ -9,6 +9,7 @@ lxml = "*"
 re = "*"
 bs4 = "*"
 datetime = "*"
+requests = "*"
 
 [dev-packages]
 flake8 = "*"
