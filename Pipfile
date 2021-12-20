@@ -5,6 +5,11 @@ name = "pypi"
 
 [packages]
 streamlit = "*"
+requests = "*"
+lxml = "*"
+pandas = "*"
+bs4 = "*"
+datetime = "*"
 
 [dev-packages]
 
