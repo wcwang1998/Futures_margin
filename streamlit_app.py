@@ -121,7 +121,7 @@ def Taiwan_Index():
         initial.append(temp_initial)
 
     #期貨代碼list
-    code_list = ['TX','MTX','*****','*****','*****','TE','ZEF','*****','*****','TF','ZFF','*****','*****','T5F','XIF','GTF','G2F','E4F','BTF','TJF','UDF','SPF','UNF','F1F']
+    code_list = ['TX','MTX','*****','*****','*****','TE','ZEF','*****','*****','TF','ZFF','*****','*****','XIF','GTF','G2F','E4F','BTF','SOF','SHF','TJF','UDF','SPF','UNF','F1F']
 
     #將list寫入TW_Index
     TW_Index['商品別'] = name_id
